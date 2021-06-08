@@ -4,8 +4,9 @@ layout: default
 
 [![profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts](https://music.stackexchange.com/users/flair/37579.png?theme=clean "profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts")](https://music.stackexchange.com/users/37579/lyric-roy)
 
-<a href=""><img src="" width="208" height="58" alt="s" title=""></a>
+> sidu
 
+<a href="https://music.stackexchange.com/users/37579/lyric-roy"><img src="https://music.stackexchange.com/users/flair/37579.png" width="208" height="58" alt="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts" title="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts"></a>
 
 
 
