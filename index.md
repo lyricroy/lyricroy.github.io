@@ -8,6 +8,11 @@ layout: default
 
 <a href="https://music.stackexchange.com/users/37579/lyric-roy"><img src="https://music.stackexchange.com/users/flair/37579.png" width="208" height="58" alt="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts" title="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts"></a>
 
+> sdljf
+
+
+<a href="https://stackexchange.com/users/1984968"><img src="https://stackexchange.com/users/flair/1984968.png" width="208" height="58" alt="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
