@@ -2,16 +2,28 @@
 layout: default
 ---
 
-[![profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts](https://music.stackexchange.com/users/flair/37579.png?theme=clean "profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts")](https://music.stackexchange.com/users/37579/lyric-roy)
 
-> sidu
+## [](#header-2)Social Media
 
-<a href="https://music.stackexchange.com/users/37579/lyric-roy"><img src="https://music.stackexchange.com/users/flair/37579.png" width="208" height="58" alt="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts" title="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts"></a>
+### [](#header-3)SoundCloud
+<http://soundcloud.com/lyricroy>
 
-> sdljf
+### [](#header-3)Instagram
+<http://www.instagram.com/lyric.roy>
 
 
-<a href="https://stackexchange.com/users/1984968"><img src="https://stackexchange.com/users/flair/1984968.png?theme=clean" width="208" height="58" alt="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+### [](#header-3)Facebook
+<http://www.facebook.com/LyricRoy.Hz>
+
+
+### [](#header-3)Twitter
+<http://www.twitter.com/LyricRoy>
+
+
+
+### [](#header-3)Stack Exchange
+
+<a href="https://stackexchange.com/users/1984968"><img src="https://stackexchange.com/users/flair/1984968.png" width="208" height="58" alt="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 <!--
@@ -138,4 +150,13 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
+
+
+[![profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts](https://music.stackexchange.com/users/flair/37579.png?theme=clean "profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts")](https://music.stackexchange.com/users/37579/lyric-roy)
+
+> sidu
+
+<a href="https://music.stackexchange.com/users/37579/lyric-roy"><img src="https://music.stackexchange.com/users/flair/37579.png" width="208" height="58" alt="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts" title="profile for Lyric Roy at Music: Practice &amp; Theory Stack Exchange, Q&amp;A for musicians, students, and enthusiasts"></a>
+
+> sdljf
 -->
