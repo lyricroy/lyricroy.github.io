@@ -5,6 +5,9 @@ layout: default
 
 ## [](#header-2)Social Media
 
+### [](#header-3)YouTube
+<http://www.youtube.com/LyricRoy>
+
 ### [](#header-3)SoundCloud
 <http://soundcloud.com/lyricroy>
 
@@ -19,10 +22,13 @@ layout: default
 ### [](#header-3)Twitter
 <http://www.twitter.com/LyricRoy>
 
+### [](#header-3)BandCamp
+<http://lyricroy.bandcamp.com>
 
+### [](#header-3)Medium
+<http://www.medium.com/@lyricroy>
 
 ### [](#header-3)Stack Exchange
-
 <a href="https://stackexchange.com/users/1984968"><img src="https://stackexchange.com/users/flair/1984968.png" width="208" height="58" alt="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lyric Roy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
